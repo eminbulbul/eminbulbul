@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminbulbul" alt="eminbulbul" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **being alive :P**
 
-- 💬 Ask me about **react, javascript, css , sass , bootstrap and Dune**
+- 💬 Ask me about **react, javascript, css , tailwind , bootstrap and Dune**
 
 - 📫 How to reach me **mehmeteminbul@gmail.com**
 
